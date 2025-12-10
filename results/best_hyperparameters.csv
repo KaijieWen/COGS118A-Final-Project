@@ -1,0 +1,27 @@
+dataset,classifier,best_params
+adult,random_forest,"{
+  ""max_depth"": null,
+  ""min_samples_split"": 10,
+  ""n_estimators"": 200
+}"
+adult,svm,"{
+  ""C"": 1
+}"
+adult,knn,"{
+  ""n_neighbors"": 11,
+  ""weights"": ""uniform""
+}"
+spambase,random_forest,"{
+  ""max_depth"": null,
+  ""min_samples_split"": 2,
+  ""n_estimators"": 100
+}"
+spambase,svm,"{
+  ""C"": 10,
+  ""gamma"": ""scale"",
+  ""kernel"": ""rbf""
+}"
+spambase,knn,"{
+  ""n_neighbors"": 9,
+  ""weights"": ""distance""
+}"

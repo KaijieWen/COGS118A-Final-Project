@@ -1,0 +1,1502 @@
+Found 9 existing results. Continuing from there...
+Running 81 experiments...
+================================================================================
+Experiments:  11%|█         | 9/81 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  23%|██▎       | 19/81 [00:00<00:02, 24.74it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  27%|██▋       | 22/81 [00:01<00:08,  6.68it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  30%|██▉       | 24/81 [00:02<00:11,  4.84it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  31%|███       | 25/81 [00:02<00:13,  4.28it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  32%|███▏      | 26/81 [00:03<00:14,  3.79it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  33%|███▎      | 27/81 [00:03<00:15,  3.45it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  35%|███▍      | 28/81 [00:04<00:16,  3.19it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  36%|███▌      | 29/81 [00:04<00:17,  2.98it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  37%|███▋      | 30/81 [00:04<00:17,  2.87it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  38%|███▊      | 31/81 [00:05<00:18,  2.75it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  40%|███▉      | 32/81 [00:05<00:18,  2.70it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  41%|████      | 33/81 [00:06<00:18,  2.58it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  42%|████▏     | 34/81 [00:06<00:18,  2.57it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  43%|████▎     | 35/81 [00:06<00:18,  2.53it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  44%|████▍     | 36/81 [00:07<00:17,  2.53it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  57%|█████▋    | 46/81 [00:07<00:02, 11.83it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  69%|██████▉   | 56/81 [00:07<00:01, 22.40it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/svm/20_80/trial_42
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+  Using sample of 5000 for SVM (from 9768)
+ERROR in adult/svm/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/svm/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/svm/20_80/trial_123
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+  Using sample of 5000 for SVM (from 9768)
+ERROR in adult/svm/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/svm/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/svm/20_80/trial_456
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+  Using sample of 5000 for SVM (from 9768)
+ERROR in adult/svm/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/svm/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/svm/50_50/trial_42
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+  Using LinearSVC with sample of 5000 (from 24421)
+ERROR in adult/svm/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/svm/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/svm/50_50/trial_123
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+  Using LinearSVC with sample of 5000 (from 24421)
+ERROR in adult/svm/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/svm/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/svm/50_50/trial_456
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+  Using LinearSVC with sample of 5000 (from 24421)
+ERROR in adult/svm/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/svm/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/svm/80_20/trial_42
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+  Using LinearSVC with sample of 5000 (from 39073)
+ERROR in adult/svm/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/svm/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/svm/80_20/trial_123
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+  Using LinearSVC with sample of 5000 (from 39073)
+ERROR in adult/svm/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/svm/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/svm/80_20/trial_456
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+  Using LinearSVC with sample of 5000 (from 39073)
+ERROR in adult/svm/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/svm/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/knn/20_80/trial_42
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+ERROR in adult/knn/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/knn/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/knn/20_80/trial_123
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+ERROR in adult/knn/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/knn/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/knn/20_80/trial_456
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+ERROR in adult/knn/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/knn/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/knn/50_50/trial_42
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+ERROR in adult/knn/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/knn/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/knn/50_50/trial_123
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+ERROR in adult/knn/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/knn/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/knn/50_50/trial_456
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+ERROR in adult/knn/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/knn/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/knn/80_20/trial_42
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+ERROR in adult/knn/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/knn/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/knn/80_20/trial_123
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+ERROR in adult/knn/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/knn/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: adult/knn/80_20/trial_456
+Adult dataset loaded: 48842 samples, 105 features
+Class distribution: 37155 (<=50K), 11687 (>50K)
+ERROR in adult/knn/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in adult/knn/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/random_forest/20_80/trial_42
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/random_forest/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/random_forest/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/random_forest/20_80/trial_123
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/random_forest/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/random_forest/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/random_forest/20_80/trial_456
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/random_forest/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/random_forest/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  80%|████████  | 65/81 [00:07<00:00, 31.80it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  89%|████████▉ | 72/81 [00:07<00:00, 36.08it/s]Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments:  96%|█████████▋| 78/81 [00:07<00:00, 39.36it/s]
+
+Starting: spambase/random_forest/50_50/trial_42
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/random_forest/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/random_forest/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/random_forest/50_50/trial_123
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/random_forest/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/random_forest/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/random_forest/50_50/trial_456
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/random_forest/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/random_forest/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/random_forest/80_20/trial_42
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/random_forest/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/random_forest/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/random_forest/80_20/trial_123
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/random_forest/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/random_forest/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/random_forest/80_20/trial_456
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/random_forest/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/random_forest/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/svm/20_80/trial_42
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/svm/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/svm/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/svm/20_80/trial_123
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/svm/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/svm/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/svm/20_80/trial_456
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/svm/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/svm/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/svm/50_50/trial_42
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/svm/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/svm/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/svm/50_50/trial_123
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/svm/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/svm/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/svm/50_50/trial_456
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/svm/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/svm/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/svm/80_20/trial_42
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/svm/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/svm/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/svm/80_20/trial_123
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/svm/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/svm/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/svm/80_20/trial_456
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/svm/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/svm/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/knn/20_80/trial_42
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/knn/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/knn/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/knn/20_80/trial_123
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/knn/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/knn/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/knn/20_80/trial_456
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/knn/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/knn/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/knn/50_50/trial_42
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/knn/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/knn/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/knn/50_50/trial_123Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments: 84it [00:07, 41.53it/s]                        Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Traceback (most recent call last):
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 226, in run_all_experiments
+    result = run_single_experiment(
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/src/run_experiments.py", line 120, in run_single_experiment
+    best_model, best_params, val_acc = tune_hyperparameters(
+                                       ^^^^^^^^^^^^^^^^^^^^^
+TypeError: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+Experiments: 90it [00:08, 43.87it/s]Experiments: 90it [00:08, 10.02it/s]
+
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/knn/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/knn/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/knn/50_50/trial_456
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/knn/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/knn/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/knn/80_20/trial_42
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/knn/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/knn/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/knn/80_20/trial_123
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/knn/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/knn/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: spambase/knn/80_20/trial_456
+Spambase dataset loaded: 4601 samples, 57 features
+Class distribution: 2788 (non-spam), 1813 (spam)
+Features standardized: mean=-0.0000, std=1.0000
+ERROR in spambase/knn/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in spambase/knn/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/random_forest/20_80/trial_42
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/random_forest/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/random_forest/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/random_forest/20_80/trial_123
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/random_forest/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/random_forest/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/random_forest/20_80/trial_456
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/random_forest/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/random_forest/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/random_forest/50_50/trial_42
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/random_forest/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/random_forest/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/random_forest/50_50/trial_123
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/random_forest/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/random_forest/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/random_forest/50_50/trial_456
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/random_forest/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/random_forest/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/random_forest/80_20/trial_42
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/random_forest/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/random_forest/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/random_forest/80_20/trial_123
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/random_forest/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/random_forest/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/random_forest/80_20/trial_456
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/random_forest/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/random_forest/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/svm/20_80/trial_42
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/svm/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/svm/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/svm/20_80/trial_123
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/svm/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/svm/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/svm/20_80/trial_456
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/svm/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/svm/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/svm/50_50/trial_42
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/svm/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/svm/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/svm/50_50/trial_123
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/svm/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/svm/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/svm/50_50/trial_456
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/svm/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/svm/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/svm/80_20/trial_42
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+  Using sample of 5000 for SVM (from 6499)
+ERROR in mushroom/svm/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/svm/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/svm/80_20/trial_123
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+  Using sample of 5000 for SVM (from 6499)
+ERROR in mushroom/svm/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/svm/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/svm/80_20/trial_456
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+  Using sample of 5000 for SVM (from 6499)
+ERROR in mushroom/svm/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/svm/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/knn/20_80/trial_42
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/knn/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/knn/20_80/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/knn/20_80/trial_123
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/knn/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/knn/20_80/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/knn/20_80/trial_456
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/knn/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/knn/20_80/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/knn/50_50/trial_42
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/knn/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/knn/50_50/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/knn/50_50/trial_123
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/knn/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/knn/50_50/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/knn/50_50/trial_456
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/knn/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/knn/50_50/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/knn/80_20/trial_42
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/knn/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/knn/80_20/trial_42: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/knn/80_20/trial_123
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/knn/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/knn/80_20/trial_123: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Starting: mushroom/knn/80_20/trial_456
+Mushroom dataset loaded: 8124 samples, 117 features
+Class distribution: 4208 (edible), 3916 (poisonous)
+ERROR in mushroom/knn/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+✗ ERROR in mushroom/knn/80_20/trial_456: tune_hyperparameters() got an unexpected keyword argument 'use_linear_svm'
+
+Results saved to /Users/wan/Desktop/UCSD/Classes/COGS 118A/COGS118A_Final_Project/results/experiment_results.csv
+Total experiments completed: 9/81
+
+================================================================================
+EXPERIMENT SUMMARY
+================================================================================
+
+Total experiments: 9
+
+Average test accuracies by classifier:
+classifier
+random_forest    0.862352
+Name: test_acc, dtype: float64
+
+Average test accuracies by dataset:
+dataset
+adult    0.862352
+Name: test_acc, dtype: float64
